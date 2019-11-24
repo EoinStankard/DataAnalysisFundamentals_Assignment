@@ -27,8 +27,11 @@ I will be analysing to see if there is a relationship between the different vari
 ### How to view the Assignment
 
 The assignment can be viewed the following ways
-1. Clicking on the "TipsDataset_Assignment.ipynb" file above,
-2. Downloading the Repo and running jupyter notebook in the command line.
+
+1. Downloading the Repo and running jupyter notebook in the command line. (Recommended)
+2. Clicking on the "TipsDataset_Assignment.ipynb" file above,
+
+I recommend that you download and run the assignment on your own machine as some headings are missing when directly clicking on the "TipsDataset_Assignment.ipynb" file above
 
 ### What is needed to run the Assignment
 
