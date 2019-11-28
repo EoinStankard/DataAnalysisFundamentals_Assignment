@@ -71,5 +71,6 @@ The main variables i want to analyse are
 4. https://seaborn.pydata.org/
 5. https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
 6. https://seaborn.pydata.org/generated/seaborn.barplot.html
+7. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
 
 
